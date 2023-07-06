@@ -14,7 +14,7 @@
 ![](./../img/formoutput.gif)
 
 В классе `ApiConnector` актуальными на данной странице будут методы:
-1. `login({login, password}, callback)`
+1. `login(, callback)`
 2. `register({login, password}, callback)`
 
 Отправка запросов авторизации (неверный пароль, корректная авторизация и логаут):
